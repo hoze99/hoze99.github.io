@@ -2,7 +2,7 @@
 title: First Post
 categories: [homelab,jekyll]
 image: /assets/img/first-post.jpg
-tags: [documentaiton,jekyll]
+tags: [documentation,jekyll]
 ---
 
 
